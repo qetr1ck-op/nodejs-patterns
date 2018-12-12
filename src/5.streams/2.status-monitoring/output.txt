@@ -1,0 +1,3 @@
+https://google.com - up
+http://example.com - up
+http://foo.bar - down
